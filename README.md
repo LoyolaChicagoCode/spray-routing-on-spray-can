@@ -1,7 +1,7 @@
 # Objectives
 
 - Standalone version of spray-routing/on-spray-can example
-- Based on build.sbt
+- Based on build.sbt with sbteclipse plugin
 - Based on latest versions of Scala and Akka
 - Ready for deployment to Heroku
 
